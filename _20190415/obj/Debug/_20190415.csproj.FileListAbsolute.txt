@@ -1,0 +1,16 @@
+c:\users\a92940313\Visual Studio 2015\Projects\PrivatZoo\_20190415\bin\Debug\_20190415.exe.config
+c:\users\a92940313\Visual Studio 2015\Projects\PrivatZoo\_20190415\obj\Debug\_20190415.csprojResolveAssemblyReference.cache
+c:\users\a92940313\Visual Studio 2015\Projects\PrivatZoo\_20190415\bin\Debug\_20190415.exe
+c:\users\a92940313\Visual Studio 2015\Projects\PrivatZoo\_20190415\bin\Debug\_20190415.pdb
+c:\users\a92940313\Visual Studio 2015\Projects\PrivatZoo\_20190415\bin\Debug\classlib_Zoo.dll
+c:\users\a92940313\Visual Studio 2015\Projects\PrivatZoo\_20190415\bin\Debug\classlib_Zoo.pdb
+c:\users\a92940313\Visual Studio 2015\Projects\PrivatZoo\_20190415\obj\Debug\_20190415.exe
+c:\users\a92940313\Visual Studio 2015\Projects\PrivatZoo\_20190415\obj\Debug\_20190415.pdb
+C:\Users\A92940325\Desktop\PrivatZoo\_20190415\bin\Debug\_20190415.exe.config
+C:\Users\A92940325\Desktop\PrivatZoo\_20190415\obj\Debug\_20190415.exe
+C:\Users\A92940325\Desktop\PrivatZoo\_20190415\obj\Debug\_20190415.pdb
+C:\Users\A92940325\Desktop\PrivatZoo\_20190415\bin\Debug\_20190415.exe
+C:\Users\A92940325\Desktop\PrivatZoo\_20190415\bin\Debug\_20190415.pdb
+C:\Users\A92940325\Desktop\PrivatZoo\_20190415\bin\Debug\classlib_Zoo.dll
+C:\Users\A92940325\Desktop\PrivatZoo\_20190415\bin\Debug\classlib_Zoo.pdb
+C:\Users\A92940325\Desktop\PrivatZoo\_20190415\obj\Debug\_20190415.csprojResolveAssemblyReference.cache
